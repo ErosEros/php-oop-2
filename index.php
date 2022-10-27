@@ -23,6 +23,6 @@ echo "<pre>";
 var_dump($avatar);
 echo "</pre>";
 
-$avatar->chechRegister();
+// $avatar->chechRegister();
 
 ?>
